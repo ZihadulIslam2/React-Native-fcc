@@ -24,3 +24,5 @@ npx start expo
 
 video watched:
  55 min 
+
+ this is the change i made
