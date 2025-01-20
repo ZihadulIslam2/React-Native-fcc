@@ -17,9 +17,9 @@ const app = () => {
         style={styles.image}
       >
         <Text style={styles.title}>I like coffee shop</Text>
-        <Link href="/explore" style={{ marginHorizontal: 'auto' }} asChild>
+        <Link href="/contact" style={{ marginHorizontal: 'auto' }} asChild>
           <Pressable style={styles.button}>
-            <Text style={ styles.buttonText}>Explore</Text>
+            <Text style={ styles.buttonText}>Contact Us</Text>
           </Pressable>
         </Link>
       </ImageBackground>
