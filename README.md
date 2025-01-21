@@ -24,5 +24,7 @@ npx start expo
 
 video watched:
  55 min 
-
+1.37 min
  this is the change i made
+ course git link:
+https://github.com/gitdagray/react-native-course/tree/lesson-4
